@@ -3,8 +3,7 @@
 ### 👨🏿‍✈️ About Me:
 - 👨🏿‍💻 My real Name is Santiago Hurtado Solis.
 - 🎓 I'm Software Engineering Student at the ICESI University.
-- 🔭 I’m currently working on my personal web page.
-- 🌱 I’m currently learning about web development.
+- 🔭 I’m currently working as Software Developer at Seguros Bolivar.
 - 👯 I’m looking to collaborate on any project that help me to raise my skills.
 - 💬 Ask me about anything.
 
